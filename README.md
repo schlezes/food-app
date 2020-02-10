@@ -25,6 +25,12 @@ This is not yet completed as I am designing a new set of rules for individual fo
 
 It is complicated.
 
+I have tested the clone and download and it works on my Firefox desktop.
+
+Download to your desktop, 
+
+un-zip the files
+
+double-click on the index.html to run.
+
 Thanks.
-
-
